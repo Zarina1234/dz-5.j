@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 20px;
+
+}
+.row{
+    margin-left: 100px;
+    max-width: 1500px;
+    flex-wrap: wrap;
+    display: flex;
+}
+/* h1{
+    margin: 50px 0;
+    text-align: center;
+    font-size: 35px;
+} */
+.card{
+    height: 476px;
+    width: 330px;
+}
+.bn{
+    margin-left: 138px;
+}
